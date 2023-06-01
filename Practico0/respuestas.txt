@@ -1,0 +1,19 @@
+ejercicio 1.a respuesta = 8
+1.b = 204
+
+2.a area = 15cm
+2.b area = 66.25
+
+3 ¿Cuántos grados C son 50 F?
+resultado = 10
+¿Cuántos grados C son 75 F?
+resultado = 23.88888888888889
+
+4 ¿Cuál es el promedio entre 5, 7 y 9?
+ el resultado es 7
+
+¿Cuál es el promedio entre -2 , -3, -8?
+ el resultado es -4.333333333333333
+
+¿Cuál es el promedio entre -1.2, 5.3, -3.3?
+ el resultado es 0.2666666666666666
