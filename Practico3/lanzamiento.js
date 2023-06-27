@@ -15,9 +15,6 @@ hacia atrás después de cada iteración, no hacia arriba, por lo que **no** qui
 */
 
 
-
-
-
 for (let i = 10; i > -1; i--) {
     if (i === 10) {
         console.log("Cuenta regresiva %i", i);
